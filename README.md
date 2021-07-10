@@ -10,4 +10,4 @@ Microsoft SQLfor data analysis and Tableau for data visualisation
 
 Medium (https://katiehuangx.medium.com/covid-19-analysing-covid-19-and-the-impact-on-bursa-malaysia-klse-index-31e390fb04cd)
 
-Kaggle https://www.kaggle.com/katiehuangx/sales-analysis-super-store)
+Tableau (https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1)
